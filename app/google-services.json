@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "393919400694",
+    "firebase_url": "https://nietomikaelapracexam2.firebaseio.com",
+    "project_id": "nietomikaelapracexam2",
+    "storage_bucket": "nietomikaelapracexam2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393919400694:android:a655a6c2b179171d",
+        "android_client_info": {
+          "package_name": "com.example.nietomikaela"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393919400694-vh9v4j066bjtms4a67otuq3e4lih6jab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nietomikaela",
+            "certificate_hash": "f97c243b0a873bfdc38f7017353b0ea467cee54f"
+          }
+        },
+        {
+          "client_id": "393919400694-5ktui5tb17bifpstjj6et1b21epkp86b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlbNEW7BbKrbeO6vnBtS9YWXQURxlEq9E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393919400694-5ktui5tb17bifpstjj6et1b21epkp86b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393919400694:android:566d07114157eeee",
+        "android_client_info": {
+          "package_name": "mikaela.nieto.com.nietomikaelapracexam2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393919400694-pgskrpqs8u08r49peqcvspq24488688r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mikaela.nieto.com.nietomikaelapracexam2",
+            "certificate_hash": "f0de6939a62e6d76b8abb2dcc566cbadc8b9e059"
+          }
+        },
+        {
+          "client_id": "393919400694-5ktui5tb17bifpstjj6et1b21epkp86b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlbNEW7BbKrbeO6vnBtS9YWXQURxlEq9E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393919400694-5ktui5tb17bifpstjj6et1b21epkp86b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
